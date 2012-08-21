@@ -1,3 +1,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/bugcloud/nginx.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/bugcloud/mysql.git
