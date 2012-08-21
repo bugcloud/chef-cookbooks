@@ -1,4 +1,9 @@
 {
+  "mysql": {
+    "server_root_password": "iloverandompassword",
+    "server_repl_password": "iloverandompassword",
+    "server_debian_password": "iloverandompassword"
+  },
   "run_list": [
     "recipe[nginx]",
     "recipe[mysql::server]"
